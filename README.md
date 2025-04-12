@@ -4,5 +4,8 @@
 💞️ I’m looking to collaborate on open-source projects and innovative tech ideas.
 📫 How to reach me: [your email or LinkedIn profile here]
 ⚡ Fun fact: I love solving complex problems and turning ideas into working products!
-<img src="https://media.licdn.com/dms/image/your_linkedIn_image_link.jpg" width="150" />
+<a href="https://www.linkedin.com/in/arivazhagan-b-5b64a6320/" target="_blank">
+  <img src="https://media.licdn.com/dms/image/your_linkedIn_image_link.jpg" width="150" />
+</a>
+
 
