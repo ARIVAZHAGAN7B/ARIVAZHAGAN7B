@@ -12,12 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🎯 I'm a passionate **Full-Stack Developer** with 2+ years in MERN and DevOps.
-- 🤖 1+ year hands-on experience building **AI/ML** solutions using Python, TensorFlow, and CNNs.
-- 🚀 Built 10+ real-world projects including an AI-powered agri platform with 90%+ accuracy.
-- 🛠️ I love working on scalable systems, CI/CD pipelines, and solving real-world problems.
-- 🔭 Actively looking for roles as a **Software Developer Intern**, **ML Engineer Intern**, or **Junior DevOps Engineer**.
+**Java Developer** with strong **Data Structure and Algorithms** and problem-solving skills, specializing in scalable, high-performance applications. Experienced in **full-stack web development, AI integration, and backend engineering** with **Spring Boot.** Skilled in working with financial data, secure transaction flows, and compliance-aware systems. Passionate about clean code, modern development practices, and building impactful fintech solutions.
 
 ## 🧰 Complete Tech Stack
 
