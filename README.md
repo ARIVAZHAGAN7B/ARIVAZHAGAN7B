@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arivazhagan B</h1>
-<h3 align="center">Full Stack Developer | ML Enthusiast | DevOps</h3>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
