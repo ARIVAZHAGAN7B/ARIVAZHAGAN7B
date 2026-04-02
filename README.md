@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arivazhagan B</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
@@ -12,14 +12,12 @@
 ---
 
 ### 👨‍💻 About Me
-**Java Developer** with strong **Data Structure and Algorithms** and problem-solving skills, specializing in scalable, high-performance applications. Experienced in **full-stack web development, AI integration, and backend engineering** with **Spring Boot.** Skilled in working with financial data, secure transaction flows, and compliance-aware systems. Passionate about clean code, modern development practices, and building impactful fintech solutions.
+FullStack Developer specializing in MERN stack and backend development, with strong problem-solving skills in Data Structures and Algorithms. Experienced in building scalable web applications, real-time systems, and API-driven architectures.
 
 ## 🧰 Complete Tech Stack
 
 ### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -29,7 +27,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -40,14 +37,10 @@
 
 ### ☁️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes Basics](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🗃️ Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧪 Testing & Productivity
@@ -61,20 +54,22 @@
 
 ### 🏗️ Noteworthy Projects
 
+- **GM Portal** – group Lifecycle and automation jobs  
+  `Built scalable REST APIs supporting 2K+ concurrent users and 5K+ daily active user.
+Implemented background job processing using cron jobs, reducing manual workflow effort by 70%.
+Engineered real-time, rule-driven workflows handling phases, eligibility, and memberships`  
+  🔗 [BePlaced](https://github.com/ARIVAZHAGAN7B/groupManagement)
+
+  
 - **Cropio** – AI-Powered Sustainable Farming  
   `Crop recommendation, CNN-based disease detection, subsidy API integration`  
   🔗 [GitHub](https://github.com/ARIVAZHAGAN7B/cropio)
-
-- **BePlaced & Crang** – Career Alignment Platform  
-  `Skill-based job matcher, FAANG prep training, real-time offer tracking`  
-  🔗 [BePlaced](https://github.com/ARIVAZHAGAN7B/BePlaced) • [Crang](https://github.com/ARIVAZHAGAN7B/Crang)
 ---
 
 ### 🏆 Certifications & Achievements
 
 - ✅ JavaScript Algorithms and Data Structures – FreeCodeCamp  
-- ✅ Machine Learning – Coursera (deeplearning.ai)  
-- 🥈 Runner-up – Convolve 3.0 Hackathon
+- ✅ Machine Learning – Coursera (deeplearning.ai) 
 
 ---
 
